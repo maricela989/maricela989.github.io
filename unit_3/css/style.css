@@ -1,6 +1,7 @@
 body {
 	background-color:rgb(127,0,0);
 	color:#D7FFDB;
+	font-family: helvetica;
 }
 h1 {
 	color:#D7FFDB; 
@@ -12,4 +13,8 @@ h1 {
 font-size: 24px;
 font-style: bold;
 text-align: left
+}
+p {
+	color:#D7FFDB;
+	font-family: helvetica;
 }
