@@ -1,7 +1,13 @@
-body {background-color: 127,0,0}
-h1 {color: hex #D7FFDB} 
-h1 {font-size: 36px}
-#slogan {font-family: helvetica}
-{font-size: 24px} 
-{font-style: bold} 
-{text-align: left}
+body {
+	background-color: 127,0,0
+}
+h1 {
+	color: hex #D7FFDB; 
+	font-size: 36px
+}
+#slogan {
+	font-family: helvetica;
+font-size: 24px;
+font-style: bold;
+text-align: left
+}
