@@ -5,7 +5,7 @@ body {
 	padding-left: 20px;
 }
 h1 {
-	color:726F6F; 
+	color:#726F6F; 
 	font-size: 64px;
 	font-family: 'Josefin Slab', serif;
 	text-align: left;
@@ -13,6 +13,10 @@ h1 {
 	padding-top: 10px;
 	padding-left: 20px;
 }
+.boxed {
+	border: 2px #5b150e;
+}
+
 #slogan {
 	font-family: 'Josefin Slab', serif;
 font-size: 18px;
@@ -21,20 +25,21 @@ padding-left: 32px;
 color:726F6F; 
 }
 h2 { 	
-	color:726F6F; 
+	color:#726F6F; 
 	font-size: 18px;
 	font-family: 'Josefin Slab', serif;
 	text-align: left;
 	padding-left: 120px;
 	background-color: #d5c8c7
+
 }
 p {
-	color:726F6F; 
+	color:#726F6F; 
 	font-family: 'Catamaran', sans-serif;
 	padding-left: 20px;
 }
 li {
-	color:726F6F; 
+	color:#726F6F; 
 	font-family: 'Catamaran', sans-serif;
 	padding-left: 30px;
 }
