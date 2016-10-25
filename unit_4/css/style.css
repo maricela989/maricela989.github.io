@@ -14,13 +14,15 @@ h1 {
 	padding-left: 20px;
 }
 
-#slogan {
+h3 { 	
 	font-family: 'Dancing Script', cursive;
-font-size: 28px;
-text-align: left;
-padding-left: 32px;
-color:(0,0,0); 
+	font-size: 28px;
+	text-align: left;
+	padding-left: 32px;
+	color:(0,0,0); 
 }
+
+
 h2 { 	
 	color:(0,0,0); 
 	font-size: 14px;
