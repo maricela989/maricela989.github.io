@@ -7,7 +7,7 @@ body {
 h1 {
 	color:#000000; 
 	font-size: 64px;
-	font-family: 'Josefin Slab', serif;
+	font-family: 'Catamaran', sans-serif;
 	text-align: left;
 	letter-spacing: 2px;
 	padding-top: 10px;
@@ -19,10 +19,10 @@ h1 {
 font-size: 28px;
 text-align: left;
 padding-left: 32px;
-color:#00000; 
+color:#000000; 
 }
 h2 { 	
-	color:#726F6F; 
+	color:#000000; 
 	font-size: 18px;
 	font-family: 'Catamaran', sans-serif;
 	text-align: left;
@@ -31,12 +31,12 @@ h2 {
 
 }
 p {
-	color:#726F6F; 
+	color:#000000; 
 	font-family: 'Catamaran', sans-serif;
 	padding-left: 20px;
 }
 li {
-	color:#726F6F; 
+	color:#000000; 
 	font-family: 'Catamaran', sans-serif;
 	padding-left: 30px;
 }
