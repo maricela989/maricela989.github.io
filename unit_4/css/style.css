@@ -5,7 +5,7 @@ body {
 	padding-left: 20px;
 }
 h1 {
-	color:#726F6F; 
+	color:000000; 
 	font-size: 64px;
 	font-family: 'Josefin Slab', serif;
 	text-align: left;
@@ -18,11 +18,11 @@ h1 {
 }
 
 #slogan {
-	font-family: 'Josefin Slab', serif;
+	font-family: 'Dancing Script', cursive;
 font-size: 18px;
 text-align: left;
 padding-left: 32px;
-color:726F6F; 
+color:00000; 
 }
 h2 { 	
 	color:#726F6F; 
