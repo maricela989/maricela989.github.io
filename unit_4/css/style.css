@@ -10,16 +10,7 @@ h1 {
 	font-family: 'Josefin Slab', serif;
 	text-align: left;
 	letter-spacing: 2px;
-	padding-top: 10px;
 	padding-left: 20px;
-}
-
-h3 { 	
-	font-family: 'Dancing Script', cursive;
-	font-size: 28px;
-	text-align: left;
-	padding-left: 32px;
-	color:(0,0,0); 
 }
 
 
@@ -31,6 +22,14 @@ h2 {
 	padding-left: 20px;
 	background-color: #d5c8c7
 
+}
+
+h3 { 	
+	font-family: 'Dancing Script', cursive;
+	font-size: 28px;
+	text-align: left;
+	padding-left: 32px;
+	color:(0,0,0); 
 }
 p {
 	color:#000000; 
