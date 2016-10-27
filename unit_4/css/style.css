@@ -45,7 +45,7 @@ ul {
 	background: url(../images/1.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
-	background-position: bottom;
+	background-position: top;
 	height: 90vh;
 	padding: 25em 0 0 20em;
 }
@@ -62,6 +62,7 @@ ul {
 	background-color: #991b12;
 	display: inline-block;
 	position:left;
+	margin:0;
 }
 
 
