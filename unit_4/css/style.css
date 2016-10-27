@@ -27,7 +27,7 @@ nav {
 }
 nav a {
 	color:inherit;
-	display: inline-block;
+	display: ;
 	font-size: 14px;
 	text-align: left;
 	text-decoration:none;
@@ -51,9 +51,3 @@ ul {
 	position: left;
 }
 
-#events {
-	color: #ffff;
-	background-color:#6f0202;
-	padding:2em;
-
-}
