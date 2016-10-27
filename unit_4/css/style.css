@@ -46,13 +46,11 @@ ul {
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position: center;
-	height: 60vh;
-	padding: 0 0 0 20em;
+	height: 90vh;
 }
 #splash div {
 	background:rgb(0,0,0);
 	display:inline-block;
-	position:left;
 }
 #events div {
 	color:#fff;
