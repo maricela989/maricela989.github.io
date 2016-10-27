@@ -40,6 +40,13 @@ nav a {
 ul {
 	padding-left: 1.5em;
 }
+a:link, a:visited {
+    border: white
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
 #splash {
 	color: #fff;
 	background: url(../images/1.jpg);
@@ -66,6 +73,7 @@ ul {
 	padding: 2em;
 	background-color:rgb(55,14,14)
 }
+
 #contact div {
 	color:white;
 	padding: 2em;
