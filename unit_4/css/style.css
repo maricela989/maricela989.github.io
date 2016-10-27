@@ -40,16 +40,12 @@ nav a {
 ul {
 	padding-left: 1.5em;
 }
-div a {
-	padding: 2em;
-}
-
 #splash {
 	color: #fff;
 	background: url(../images/1.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
-	background-position: top;
+	background-position:-50px 50px;
 	height: 60vh;
 }
 #splash div {
