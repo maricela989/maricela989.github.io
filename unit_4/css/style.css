@@ -54,13 +54,13 @@ ul {
 	padding:20px;
 }
 #padding div {
-	padding: 20px;
+	padding:20px;
+	margin:20px;
 }
 #events div {
 	color:white;
 	padding: 2em;
 	background-color: black;
-	padding: 20px;
 }
 #donate div {
 	color:white;
