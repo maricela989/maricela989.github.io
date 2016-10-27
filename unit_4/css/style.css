@@ -46,11 +46,11 @@ ul {
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position: top;
-	height: 90vh;
+	height: 60vh;
 	padding: 25em 0 0 20em;
 }
 #splash div {
-	background:black;
+	background:rgb(0,0,0);
 	display:inline-block;
 	position:left;
 }
