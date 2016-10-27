@@ -12,6 +12,11 @@ h1 {
 	text-align: left;
 	letter-spacing: 2px;
 }
+h2 {
+	font-family: 'Bad Script', cursive;
+	font-size: 28px;
+	text-align: left;
+}
 nav {
 	background-color: #d5c8c7;
 }
@@ -22,12 +27,6 @@ nav a {
 	text-align: left;
 	text-decoration:none;
 	padding: 1em;
-}
-
-h2 {
-	font-family: 'Bad Script', cursive;
-	font-size: 28px;
-	text-align: left;
 }
 ul {
 	padding-left: 1.5em;
