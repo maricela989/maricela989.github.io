@@ -5,13 +5,13 @@ body {
 	font-family: 'Catamaran', sans-serif;
 }
 section {
-	padding:4em 0;
 }
 h1 {
 	font-size: 64px;
 	font-family: 'Josefin Slab', serif;
 	text-align: left;
 	letter-spacing: 2px;
+	font-weight: thin;
 }
 nav {
 	background-color: #d5c8c7;
@@ -45,10 +45,11 @@ ul {
 #splash div {
 	background:rgba(0, 0, 0, 0.81);
 	display:inline-block;
+	position: left;
 }
 
 #events {
 	color: #ffff;
 	background-color:#6f0202;
-	
+
 }
