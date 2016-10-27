@@ -45,7 +45,7 @@ ul {
 	background: url(../images/1.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
-	background-position:-50px 50px;
+	background-position:bottom;
 	height: 60vh;
 }
 #splash div {
