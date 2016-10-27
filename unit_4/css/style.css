@@ -54,15 +54,9 @@ ul {
 	display:inline-block;
 	position:left;
 }
-#events {
+#events div {
 	color:#fff;
 	padding: 2em;
-}
-#splash div {
-	background-color: #991b12;
-	display: inline-block;
-	position:left;
-	margin:0;
 }
 
 
