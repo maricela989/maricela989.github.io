@@ -11,9 +11,10 @@ h1 {
 	font-family: 'Josefin Slab', serif;
 	text-align: left;
 	letter-spacing: 2px;
+	font-weight: lighter;
 }
 h2 {
-	font-family: 'Bad Script', cursive;
+	font-family: 'Pacifico', cursive;
 	font-size: 28px;
 	text-align: left;
 }
