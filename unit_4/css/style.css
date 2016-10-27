@@ -45,13 +45,16 @@ ul {
 	background: url(../images/1.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
-	background-position: bottom;
-	height: 90vh;
+	background-position: center;
+	height: 60vh;
 }
 #splash div {
 	background:rgb(0,0,0);
 	display:inline-block;
 	padding:20px;
+}
+#padding div {
+	padding: 20px;
 }
 #events div {
 	color:#fff;
