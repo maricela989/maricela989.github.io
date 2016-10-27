@@ -40,6 +40,9 @@ nav a {
 ul {
 	padding-left: 1.5em;
 }
+div a {
+	padding: 2em;
+}
 
 #splash {
 	color: #fff;
@@ -53,10 +56,6 @@ ul {
 	background:rgb(0,0,0);
 	display:inline-block;
 	padding:20px;
-}
-#padding div {
-	padding:20px;
-	margin:20px;
 }
 #events div {
 	color:white;
