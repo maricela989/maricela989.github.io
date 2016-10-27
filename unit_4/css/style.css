@@ -1,7 +1,7 @@
 * {margin:0;padding:0;box-sizing:border-box;}
 body {
 	background-color:#F6EFEE;
-	color: #000;
+	color: #fff;
 	font-family: 'Catamaran', sans-serif;
 }
 section {
@@ -16,6 +16,11 @@ h2 {
 	font-family: 'Bad Script', cursive;
 	font-size: 28px;
 	text-align: left;
+}
+h3 {
+	font-family: 'Josefin Slab', serif;
+	font-size: 14px;
+	color:#fff;
 }
 nav {
 	background-color: #d5c8c7;
@@ -49,5 +54,6 @@ ul {
 #events {
 	color: #ffff;
 	background-color:#6f0202;
+	padding:2em;
 
 }
