@@ -45,12 +45,13 @@ ul {
 	background: url(../images/1.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
-	background-position: center;
+	background-position: bottom;
 	height: 90vh;
 }
 #splash div {
 	background:rgb(0,0,0);
 	display:inline-block;
+	margin-left: 0
 }
 #events div {
 	color:#fff;
