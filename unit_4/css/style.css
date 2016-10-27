@@ -9,7 +9,7 @@ section {
 h1 {
 	font-size: 64px;
 	font-family: 'Josefin Slab', serif;
-	text-align: left;
+	text-align: center;
 	letter-spacing: 2px;
 	font-weight: 100;
 }
@@ -18,11 +18,13 @@ h2 {
 	font-size: 28px;
 	text-align: left;
 	font-weight: 100;
+	text-align: center;
 }
 h3 {
 	font-family: 'Josefin Slab', serif;
-	font-size: 24px;
+	font-size: 18px;
 	color:#fff;
+	font-weight: thin;
 }
 nav {
 	background-color: #d5c8c7;
@@ -47,14 +49,19 @@ ul {
 	height: 90vh;
 	padding: 25em 0 0 20em;
 }
-.bottomleft {
-	position: absolute;
-}
 #splash div {
 	background:rgba(0, 0, 0, 0.81);
 	display:inline-block;
 	position: relative;
-
+}
+#events {
+	color:#fff;
+	padding: 2em;
+}
+#splash div {
+	background-color: #991b12;
+	display: inline-block;
+	position:left;
 }
 
 
