@@ -40,13 +40,6 @@ nav a {
 ul {
 	padding-left: 1.5em;
 }
-a:link, a:visited {
-    border: white
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-}
 #splash {
 	color: #fff;
 	background: url(../images/1.jpg);
