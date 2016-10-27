@@ -11,12 +11,13 @@ h1 {
 	font-family: 'Josefin Slab', serif;
 	text-align: left;
 	letter-spacing: 2px;
-	font-weight: light;
+	font-weight: 100;
 }
 h2 {
 	font-family: 'Pacifico', cursive;
 	font-size: 28px;
 	text-align: left;
+	font-weight: 100;
 }
 h3 {
 	font-family: 'Josefin Slab', serif;
