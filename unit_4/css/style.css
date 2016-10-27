@@ -45,5 +45,10 @@ ul {
 #splash div {
 	background:rgba(0, 0, 0, 0.81);
 	display:inline-block;
-	padding:2em;
+}
+
+#events {
+	color: #ffff;
+	background-color:#6f0202;
+	
 }
