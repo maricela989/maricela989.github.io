@@ -1,0 +1,76 @@
+* {margin:0;padding:0;box-sizing:border-box;}
+body {
+	background-color:#F6EFEE;
+	color: #fff;
+	font-family: 'Catamaran', sans-serif;
+}
+section {
+}
+h1 {
+	font-size: 64px;
+	font-family: 'Josefin Slab', serif;
+	text-align: center;
+	letter-spacing: 2px;
+	font-weight: 100;
+}
+h2 {
+	font-family: 'Pacifico', cursive;
+	font-size: 28px;
+	text-align: left;
+	font-weight: 100;
+	text-align: center;
+}
+h3 {
+	font-family: 'Josefin Slab', serif;
+	font-size: 18px;
+	color:#fff;
+	font-weight: thin;
+}
+nav {
+	background-color: #d5c8c7;
+}
+nav a {
+	color:inherit;
+	display: ;
+	font-size: 14px;
+	text-align: left;
+	text-decoration:none;
+	padding: 1em;
+}
+ul {
+	padding-left: 1.5em;
+}
+#splash {
+	color: #fff;
+	background: url(../images/1.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:top;
+	height: 60vh;
+}
+#splash div {
+	background:rgb(0,0,0);
+	display:inline-block;
+	padding:20px;
+}
+#events div {
+	color:white;
+	padding: 2em;
+	background-color:rgb(139,35,35);
+}
+#events section {
+	margin: 20px;
+}
+#donate div {
+	color:white;
+	padding: 2em;
+	background-color:rgb(55,14,14)
+}
+
+#contact div {
+	color:white;
+	padding: 2em;
+	background-color: black;
+}
+
+
