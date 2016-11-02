@@ -73,18 +73,21 @@ footer {
 	padding: 20px;
 	background-color:rgb(139,35,35);
 	border: 1px black solid;
+	line-height: 1.5;
 }
 #donate div {
 	color:white;
 	padding: 20px;
 	background-color:rgb(55,14,14);
 	border: 1px black solid;
+	line-height: 1.5;
 }
 #contact div {
 	color:white;
 	padding: 20px;
 	background-color: black;
 	border: 1px black solid;
+	line-height: 1.5;
 }
 
 
