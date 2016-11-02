@@ -45,7 +45,7 @@ nav a {
 	padding: 1em;
 	background-color: #E8C66A;
 	border: 1px black solid;
-	margin: 10px;
+	position: top;
 }
 ul {
 	padding-left: 1.5em;
