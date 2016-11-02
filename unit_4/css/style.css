@@ -1,11 +1,14 @@
-
+* {margin:0;padding:0;box-sizing:border-box;}
 body {
 	background-color:#F6EFEE;
 	color: #fff;
 	font-family: 'Catamaran', sans-serif;
 }
-div {	
-	background-color:#E89C6C;
+section {
+	background-color: #FFE2B8;
+}
+header {
+	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -30,21 +33,24 @@ h3 {
 	font-weight: thin;
 }
 nav {
+	background-color: #E8C66A;
+}
+nav a {
 	color:inherit;
+	display: ;
 	font-size: 14px;
 	text-align: left;
 	text-decoration:none;
-	background-color: #d5c8c7;
-	border: 1px black solid;
-	padding: 20px;
+	padding: 1em;
+}
+article {
+	background-color: #E89C6C;
 }
 ul {
 	padding-left: 1.5em;
 }
 footer {
-	background-color: #FF957E;
-	border: 1px black solid;
-	padding: 20px;
+	background-color: #FFE2B8;
 }
 #splash {
 	color: #fff;
@@ -60,9 +66,11 @@ footer {
 	padding:20px;
 }
 #events div {
-	background-color: #E89C6C;
-	border: 1px black solid;
-	padding: 20px;
+	color:white;
+	padding: 2em;
+	background-color:rgb(139,35,35);
+}
+#events section {
 	margin: 20px;
 }
 #donate div {
@@ -70,6 +78,7 @@ footer {
 	padding: 2em;
 	background-color:rgb(55,14,14)
 }
+
 #contact div {
 	color:white;
 	padding: 2em;

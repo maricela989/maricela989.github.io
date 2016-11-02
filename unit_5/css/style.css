@@ -32,25 +32,25 @@ h3 {
 	color:#fff;
 	font-weight: thin;
 }
-nav {
-	background-color: #E8C66A;
-}
 nav a {
-	color:inherit;
-	display: ;
 	font-size: 14px;
 	text-align: left;
 	text-decoration:none;
 	padding: 1em;
+	background-color: #E8C66A;
+	border: 1px black solid;
 }
 article {
 	background-color: #E89C6C;
+	border: 1px solid black;
+	padding:20px;
 }
 ul {
 	padding-left: 1.5em;
 }
 footer {
 	background-color: #FFE2B8;
+	color: black;
 }
 #splash {
 	color: #fff;
@@ -67,22 +67,21 @@ footer {
 }
 #events div {
 	color:white;
-	padding: 2em;
+	padding: 20px;
 	background-color:rgb(139,35,35);
-}
-#events section {
-	margin: 20px;
+	border: 1px black solid;
 }
 #donate div {
 	color:white;
-	padding: 2em;
-	background-color:rgb(55,14,14)
+	padding: 20px;
+	background-color:rgb(55,14,14);
+	border: 1px black solid;
 }
-
 #contact div {
 	color:white;
-	padding: 2em;
+	padding: 20px;
 	background-color: black;
+	border: 1px black solid;
 }
 
 
