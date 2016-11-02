@@ -38,6 +38,9 @@ nav a {
 	text-align: left;
 	text-decoration:none;
 	padding: 1em;
+	background-color: #d5c8c7;
+	border: 1px black solid;
+	padding: 20px;
 }
 ul {
 	padding-left: 1.5em;
