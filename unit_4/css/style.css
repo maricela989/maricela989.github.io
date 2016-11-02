@@ -65,8 +65,9 @@ footer {
 }
 #events div {
 	color:white;
-	padding: 2em;
-	background-color:rgb(139,35,35);
+	background-color:#E89C6C;
+	border: 1px black solid;
+	padding: 20px;
 }
 #events section {
 	margin: 20px;
