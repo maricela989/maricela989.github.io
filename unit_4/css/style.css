@@ -60,12 +60,9 @@ footer {
 	padding:20px;
 }
 #events div {
-	color:white;
-	background-color:#E89C6C;
+	background-color: #E89C6C;
 	border: 1px black solid;
 	padding: 20px;
-}
-#events div {
 	margin: 20px;
 }
 #donate div {
