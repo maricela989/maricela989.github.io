@@ -4,7 +4,10 @@ body {
 	color: #fff;
 	font-family: 'Catamaran', sans-serif;
 }
-section {
+section {	
+	background-color:#E89C6C;
+	border: 1px black solid;
+	padding: 20px;
 }
 h1 {
 	font-size: 64px;
@@ -58,7 +61,7 @@ footer {
 	background-position:top;
 	height: 60vh;
 }
-#splash div {
+#splash section {
 	background:rgb(0,0,0);
 	display:inline-block;
 	padding:20px;
