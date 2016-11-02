@@ -28,6 +28,8 @@ h3 {
 }
 nav {
 	background-color: #d5c8c7;
+	border: 1px black solid;
+	padding: 20px;
 }
 nav a {
 	color:inherit;
@@ -39,6 +41,11 @@ nav a {
 }
 ul {
 	padding-left: 1.5em;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
 }
 #splash {
 	color: #fff;
