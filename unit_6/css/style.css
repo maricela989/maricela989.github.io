@@ -27,14 +27,14 @@ article {
 	width: 33%;
 }
 #center {
-	background-color: #pink
+	background-color: pink
 	border: 1px black solid:
 	padding: 20px;
 	float: center;
 	width: 34%;
 }
 #right{
-	background-color: #red;
+	background-color: red;
     border: 1px black solid;
     padding: 20px;
     float: right;
