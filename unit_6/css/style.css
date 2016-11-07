@@ -20,14 +20,14 @@ article {
 	padding: 20px;
 }
 #left {
-	background-color: violet;
+	background-color: red;
 	border: 1px black solid:
 	padding: 20px;
 	float: left;
 	width: 33%;
 }
 #center {
-	background-color: pink
+	background-color: red
 	border: 1px black solid:
 	padding: 20px;
 	float: center;
