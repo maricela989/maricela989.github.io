@@ -13,6 +13,7 @@ article {
 	padding: 20px;
 	width: 30%;
 	line-height: 1.5;
+
 }
 .clearfix:after {
     visibility: hidden;
@@ -22,10 +23,11 @@ article {
     clear: both;
     height: 0;
 }
-#three_column {
+#two_column {
 	background-color: #ffB7CF;
 	border: 1px black solid;
 	padding: 20px;
+	display: inline-block;
 }
 #left {
 	background-color: red;
