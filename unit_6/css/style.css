@@ -1,0 +1,115 @@
+* {margin:0;padding:0;box-sizing:border-box;}
+body {
+	background-color:#F6EFEE;
+	color: #fff;
+	font-family: 'Catamaran', sans-serif;
+}
+section {
+	background-color: #FFE2B8;
+}
+article {
+	background-color: #E89C6C;
+	border: 1px solid black;
+	padding: 20px;
+	width: 30%;
+	line-height: 1.5;
+}
+#three_column {
+	background-color: #ffB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+#left {
+	background-color: #E582A2;
+	border: 1px black solid:
+	padding: 20px;
+}
+#center {
+	background-color: #E582B2;
+	border: 1px black solid:
+	padding: 20px;
+}
+#right{
+	background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+}
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+h1 {
+	font-size: 64px;
+	font-family: 'Josefin Slab', serif;
+	text-align: center;
+	letter-spacing: 2px;
+	font-weight: 100;
+}
+h2 {
+	font-family: 'Pacifico', cursive;
+	font-size: 28px;
+	text-align: left;
+	font-weight: 100;
+	text-align: center;
+}
+h3 {
+	font-family: 'Josefin Slab', serif;
+	font-size: 18px;
+	color:#fff;
+	font-weight: thin;
+}
+nav a {
+	font-size: 14px;
+	text-align: left;
+	text-decoration:none;
+	padding: 0px 5px 5px 5px;
+	background-color: #E8C66A;
+	border: 1px black solid;
+	position: top;
+}
+ul {
+	padding-left: 1.5em;
+	line-height: 1.5;
+}
+footer {
+	background-color: #FFE2B8;
+	color: black;
+	padding: 20px;
+}
+#splash {
+	color: #fff;
+	background: url(../images/1.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:top;
+	height: 60vh;
+}
+#splash div {
+	background:rgb(0,0,0);
+	display:inline-block;
+	padding:20px;
+}
+#events div {
+	color:white;
+	padding: 20px;
+	background-color:rgb (139,35,35);
+	border: 1px black solid;
+	line-height: 1.5;
+}
+#donate div {
+	color:white;
+	padding: 20px;
+	background-color:rgb (55,14,14);
+	border: 1px black solid;
+	line-height: 1.5;
+}
+#contact div {
+	color:white;
+	padding: 20px;
+	background-color:black;
+	border: 1px black solid;
+	line-height: 1.5;
+}
+
+
