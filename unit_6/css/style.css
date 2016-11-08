@@ -22,7 +22,7 @@ h2 {
 h3 {
 	font-family: 'Josefin Slab', serif;
 	font-size: 18px;
-	color:#fff;
+	color:#000;
 	font-weight: thin;
 }
 nav a {
@@ -99,20 +99,32 @@ footer {
 	display:block;
 }
 #donations div {
-	background color: maroon;
-	width: 33.3%;
-	padding: 20px;
-	text-decoration: none;
+	font-size: 10px;
+	text-align: left;
+	padding: 5px;
+	margin: 2px;
+	background-color: white;
+	position: top;
 	float: left;
-	display:inline-block;
+	line-height: 2em;
+	width:33.3%;
+	font-family: 'Catamaran';
+	color: white;
+	display:block;
 }
 #athletics div {
-	background color: maroon;
-	width: 33.3%;
-	padding: 20px;
-	text-decoration: none;
+	font-size: 10px;
+	text-align: left;
+	padding: 5px;
+	margin: 2px;
+	background-color: white;
+	position: top;
 	float: left;
-	display:inline-block;
+	line-height: 2em;
+	width:33.3%;
+	font-family: 'Catamaran';
+	color: white;
+	display:block;
 }
 
 
