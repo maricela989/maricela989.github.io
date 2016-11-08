@@ -120,7 +120,7 @@ footer {
 	width: 33.3%;
 	padding: 20px;
 	float: left;
-	display:block;
+	display:inline-block;
 }
 #donations section {
 	background color: maroon;
@@ -128,7 +128,7 @@ footer {
 	padding: 20px;
 	text-decoration: none;
 	float: left;
-	display:block;
+	display:inline-block;
 }
 #athletics section {
 	background color: maroon;
@@ -136,7 +136,7 @@ footer {
 	padding: 20px;
 	text-decoration: none;
 	float: left;
-	display:block;
+	display:inline-block;
 }
 
 
