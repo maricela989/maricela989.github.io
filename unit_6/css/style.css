@@ -6,41 +6,6 @@ body {
 }
 section {
 }
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
-}
-#three_column {
-	background-color: #ffB7CF;
-	border: 1px black solid;
-	padding: 20px;
-	display: inline-block;
-}
-#donations {
-	background-color: red;
-	border: 1px black solid;
-	padding: 20px;
-	float: left;
-	width: 33.3%;
-}
-#athletics{
-	background-color: red;
-    border: 1px black solid;
-    padding: 20px;
-    float: right;
-    width: 33.3%;
-}
-#events{
-	background-color: red;
-    border: 1px black solid;
-    padding: 20px;
-    float: right;
-    width: 33.3%;
-}
 h1 {
 	font-size: 64px;
 	font-family: 'Josefin Slab', serif;
@@ -93,7 +58,7 @@ footer {
 	color: gray;
 	padding: 20px;
 }
-#schoolphoto {
+#schoolphoto div {
 	background: url(/images/school.jpg);
 	height:30vh;
 	padding:20px;
@@ -111,18 +76,18 @@ footer {
 	display:inline-block;
 	padding:20px;
 }
-#three_column section {
+#three_column div {
 	background-color: white;
 	margin: 20px;
 }
-#events section {
+#events div {
 	background color: maroon;
 	width: 33.3%;
 	padding: 20px;
 	float: left;
 	display:inline-block;
 }
-#donations section {
+#donations div {
 	background color: maroon;
 	width: 33.3%;
 	padding: 20px;
@@ -130,7 +95,7 @@ footer {
 	float: left;
 	display:inline-block;
 }
-#athletics section {
+#athletics div {
 	background color: maroon;
 	width: 33.3%;
 	padding: 20px;
