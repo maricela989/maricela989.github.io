@@ -66,7 +66,7 @@ footer {
 	padding: 20px;
 }
 #schoolphoto div {
-	background: url(/images/school.jpg);
+	background: url(unit_6/images/school.jpg);
 	height:30vh;
 	padding:20px;
 }
@@ -99,12 +99,11 @@ footer {
 	margin: 2px;
 	background-color: white;
 	position: top;
-	float: left;
 	line-height: 2em;
 	width:32%;
 	font-family: 'Catamaran';
 	color: white;
-	display:block;
+	display:inline-block;
 }
 #donations div {
 	font-size: 10px;
@@ -113,12 +112,11 @@ footer {
 	margin: 2px;
 	background-color: white;
 	position: top;
-	float: left;
 	line-height: 2em;
 	width:32%;
 	font-family: 'Catamaran';
 	color: white;
-	display:block;
+	display:inline-block;
 }
 #athletics div {
 	font-size: 10px;
@@ -127,12 +125,11 @@ footer {
 	margin: 2px;
 	background-color: white;
 	position: top;
-	float: left;
 	line-height: 2em;
 	width:32%;
 	font-family: 'Catamaran';
 	color: white;
-	display:block;
+	display:inline-block;
 }
 
 
