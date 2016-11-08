@@ -31,6 +31,7 @@ h3 {
 p {
 	font-family: 'Catamaran' sans-serif;
 	font-size: 12px;
+	line-height: 1.5em;
 }
 nav a {
 	font-size: 18px;
@@ -57,7 +58,9 @@ nav a {
 }
 ul {
 	padding-left: 1.5em;
-	line-height: 1.5;
+	font-family: 'Catamaran', sans-serif;
+	font-size: 12px;
+	line-height: 1.5em;
 }
 footer {
 	background-color: #fff;
@@ -100,7 +103,7 @@ footer {
 	position: top;
 	float: left;
 	line-height: 2em;
-	width:150px;
+	width:32%;
 	font-family: 'Catamaran';
 	color: white;
 	display:block;
@@ -114,7 +117,7 @@ footer {
 	position: top;
 	float: left;
 	line-height: 2em;
-	width:33.3%;
+	width:32%;
 	font-family: 'Catamaran';
 	color: white;
 	display:block;
@@ -128,7 +131,7 @@ footer {
 	position: top;
 	float: left;
 	line-height: 2em;
-	width:33.3%;
+	width:32%;
 	font-family: 'Catamaran';
 	color: white;
 	display:block;
