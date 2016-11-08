@@ -7,15 +7,6 @@ body {
 section {
 	background-color: #FFE2B8;
 }
-article {
-	background-color: #E89C6C;
-	border: 1px solid black;
-	padding: 20px;
-	width: 30%;
-	line-height: 1.5;
-	float: left;
-
-}
 .clearfix:after {
     visibility: hidden;
     display: block;
@@ -24,25 +15,32 @@ article {
     clear: both;
     height: 0;
 }
-#two_column {
+#three_column {
 	background-color: #ffB7CF;
 	border: 1px black solid;
 	padding: 20px;
 	display: inline-block;
 }
-#left {
+#donations {
 	background-color: red;
 	border: 1px black solid:
 	padding: 20px;
 	float: left;
-	width: 33%;
+	width: 33.3%;
 }
-#right{
+#athletics{
 	background-color: red;
     border: 1px black solid;
     padding: 20px;
     float: right;
-    width: 33%;
+    width: 33.3%;
+}
+#events{
+	background-color: red;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 33.3%;
 }
 header {
 	background-color: #FFED74;
@@ -83,9 +81,14 @@ ul {
 	line-height: 1.5;
 }
 footer {
-	background-color: #FFE2B8;
-	color: black;
+	background-color: #fff;
+	color: gray;
 	padding: 20px;
+}
+#schoolphoto {
+	background: url(/images/school.jpg);
+	height:30vh;
+	padding:20px;
 }
 #splash {
 	color: #fff;
@@ -100,19 +103,25 @@ footer {
 	display:inline-block;
 	padding:20px;
 }
-#events div {
-	color:white;
-	padding: 20px;
-	background-color:rgb (139,35,35);
-	border: 1px black solid;
-	line-height: 1.5;
+#three_column {
+	background-color: #D3D3D3;
+	color: white;
 }
-#contact div {
-	color:white;
+#events section {
+	background color: maroon;
+	width: 33.3%;
 	padding: 20px;
-	background-color:black;
-	border: 1px black solid;
-	line-height: 1.5;
+}
+#donations section {
+	background color: maroon;
+	width: 33.3%;
+	padding: 20px;
+	text-decoration: none;
+}
+#athletics section {
+	background color: maroon;
+	width: 33.3%;
+	padding: 20px;
 	text-decoration: none;
 }
 
