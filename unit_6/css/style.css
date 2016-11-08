@@ -82,6 +82,7 @@ footer {
 #three_column section {
 	background-color: white;
 	margin: 20px;
+	display: block;
 }
 #events div {
 	background color: maroon;
