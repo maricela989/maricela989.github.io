@@ -43,9 +43,6 @@ section {
     width: 33.3%;
 }
 header {
-	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
 }
 h1 {
 	font-size: 64px;
@@ -111,18 +108,21 @@ footer {
 	background color: maroon;
 	width: 33.3%;
 	padding: 20px;
+	float: left;
 }
 #donations section {
 	background color: maroon;
 	width: 33.3%;
 	padding: 20px;
 	text-decoration: none;
+	float: left;
 }
 #athletics section {
 	background color: maroon;
 	width: 33.3%;
 	padding: 20px;
 	text-decoration: none;
+	float: left;
 }
 
 
