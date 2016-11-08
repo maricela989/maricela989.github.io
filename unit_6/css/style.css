@@ -28,6 +28,10 @@ h3 {
 	color:#000;
 	font-weight: thin;
 }
+p {
+	font-family: 'Catamaran' sans-serif;
+	font-size: 12px;
+}
 nav a {
 	font-size: 18px;
 	text-align: center;
