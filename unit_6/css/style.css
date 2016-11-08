@@ -40,7 +40,7 @@ nav a {
 	color: white;
 	display:block;
 }
-.clearfix:after {
+.clearfix:after div {
   visibility: hidden;
   display: block;
   content: " ";
