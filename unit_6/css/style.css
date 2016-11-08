@@ -5,7 +5,6 @@ body {
 	font-family: 'Catamaran', sans-serif;
 }
 section {
-	background-color: #FFE2B8;
 }
 .clearfix:after {
     visibility: hidden;
@@ -23,7 +22,7 @@ section {
 }
 #donations {
 	background-color: red;
-	border: 1px black solid:
+	border: 1px black solid;
 	padding: 20px;
 	float: left;
 	width: 33.3%;
@@ -68,10 +67,12 @@ nav a {
 	font-size: 14px;
 	text-align: left;
 	text-decoration:none;
-	padding: 0px 5px 5px 5px;
-	background-color: #E8C66A;
-	border: 1px black solid;
+	padding: 5px;
+	margin: 5px;
+	background-color: black;
 	position: top;
+	float: left;
+	line-height: 1.5;
 }
 ul {
 	padding-left: 1.5em;
