@@ -41,8 +41,6 @@ section {
     float: right;
     width: 33.3%;
 }
-header {
-}
 h1 {
 	font-size: 64px;
 	font-family: 'Josefin Slab', serif;
@@ -64,8 +62,8 @@ h3 {
 	font-weight: thin;
 }
 nav a {
-	font-size: 24px;
-	text-align: left;
+	font-size: 18px;
+	text-align: center;
 	text-decoration: none;
 	padding: 5px;
 	margin: 2px;
@@ -105,14 +103,14 @@ footer {
 	padding:20px;
 }
 #three_column {
-	background-color: #D3D3D3;
-	color: white;
+	background-color: white;
 }
 #events section {
 	background color: maroon;
 	width: 33.3%;
 	padding: 20px;
 	float: left;
+	display:block;
 }
 #donations section {
 	background color: maroon;
@@ -120,6 +118,7 @@ footer {
 	padding: 20px;
 	text-decoration: none;
 	float: left;
+	display:block;
 }
 #athletics section {
 	background color: maroon;
@@ -127,6 +126,7 @@ footer {
 	padding: 20px;
 	text-decoration: none;
 	float: left;
+	display:block;
 }
 
 
