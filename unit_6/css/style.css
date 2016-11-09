@@ -100,7 +100,7 @@ footer {
 	display:block;
 	float:left;
 }
-#donations section {
+#donations div {
 	font-size: 10px;
 	text-align: left;
 	padding: 5px;
