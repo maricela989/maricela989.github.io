@@ -5,6 +5,9 @@ body {
 }
 article {
 }
+br {
+	height: 10px;
+}
 section {
 	padding: 20px;
 	display: block;
