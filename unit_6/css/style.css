@@ -89,14 +89,29 @@ footer {
 	font-size: 10px;
 	text-align: left;
 	padding: 5px;
-	margin: 2px;
+	margin: 10px;
 	background-color: white;
 	position: top;
 	line-height: 2em;
-	width:32%;
+	width:200px;
 	font-family: 'Catamaran';
 	color: white;
 	display:inline-block;
+	float:left;
+}
+#midbox div {
+	font-size: 10px;
+	text-align: left;
+	padding: 5px;
+	margin: 10px;
+	background-color: white;
+	position: top;
+	line-height: 2em;
+	width:200px;
+	font-family: 'Catamaran';
+	color: white;
+	display:inline-block;
+	float:left;
 }
 
 
