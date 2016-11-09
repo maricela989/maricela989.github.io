@@ -6,6 +6,10 @@ body {
 article {
 	display: block;
 }
+section {
+	width: 800px;
+	background-color: black;
+}
 h1 {
 	font-size: 64px;
 	font-family: 'Josefin Slab', serif;
@@ -83,14 +87,10 @@ footer {
 	display:inline-block;
 	padding:20px;
 }
-#three_column article {
-	background-color: white;
-	margin: 20px;
-}
 #three_column section {
 	background-color: white;
-	margin: 20px;
-	display: block;
+	width: 400px;
+	padding: 5px;
 }
 #midbox article {
 	font-size: 10px;
