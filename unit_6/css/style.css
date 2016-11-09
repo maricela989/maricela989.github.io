@@ -54,7 +54,7 @@ nav a {
 a.hover {
 	color: orange;
 }
-.clearfix:after div {
+.clearfix:after {
   visibility: hidden;
   display: block;
   content: " ";
@@ -120,7 +120,7 @@ footer {
 	display:block;
 	float:left;
 }
-#athletics div{
+#athletics div {
 	font-size: 10px;
 	text-align: left;
 	padding: 5px;
