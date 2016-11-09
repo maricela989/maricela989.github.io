@@ -3,7 +3,7 @@ body {
 	color: #000;
 	font-family: 'Catamaran', sans-serif;
 }
-div {
+article {
 	display: block;
 }
 h1 {
@@ -65,7 +65,7 @@ footer {
 	color: gray;
 	padding: 20px;
 }
-#schoolphoto div {
+#schoolphoto article {
 	background: url(unit_6/images/school.jpg);
 	height:30vh;
 	padding:20px;
@@ -83,7 +83,7 @@ footer {
 	display:inline-block;
 	padding:20px;
 }
-#three_column div {
+#three_column article {
 	background-color: white;
 	margin: 20px;
 }
@@ -92,33 +92,7 @@ footer {
 	margin: 20px;
 	display: block;
 }
-#events div {
-	font-size: 10px;
-	text-align: left;
-	padding: 5px;
-	margin: 2px;
-	background-color: white;
-	position: top;
-	line-height: 2em;
-	width:32%;
-	font-family: 'Catamaran';
-	color: white;
-	display:inline-block;
-}
-#donations div {
-	font-size: 10px;
-	text-align: left;
-	padding: 5px;
-	margin: 2px;
-	background-color: white;
-	position: top;
-	line-height: 2em;
-	width:32%;
-	font-family: 'Catamaran';
-	color: white;
-	display:inline-block;
-}
-#athletics div {
+#midbox article {
 	font-size: 10px;
 	text-align: left;
 	padding: 5px;
