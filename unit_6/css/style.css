@@ -11,6 +11,7 @@ section {
 	display: block;
 	float: left;
 	width: 300px;
+	vertical-align: center;
 }
 h1 {
 	font-size: 64px;
@@ -35,7 +36,7 @@ h3 {
 }
 p {
 	font-family: 'Catamaran' sans-serif;
-	font-size: 16px;
+	font-size: 14px;
 	line-height: 1.5em;
 }
 nav a {
@@ -66,7 +67,7 @@ a.hover {
 ul {
 	padding-left: 1.5em;
 	font-family: 'Catamaran', sans-serif;
-	font-size: 12px;
+	font-size: 14px;
 	line-height: 1.5em;
 }
 footer {
