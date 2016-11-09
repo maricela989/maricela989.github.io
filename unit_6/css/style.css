@@ -9,6 +9,11 @@ br {
 	height: 10px;
 }
 section {
+	padding: 20px;
+	display: block;
+	float: left;
+	width: 300px;
+	vertical-align: center;
 }
 h1 {
 	font-size: 64px;
@@ -49,13 +54,6 @@ nav a {
 	display:block;
 	width: 24%;
 	float:left;
-}
-#three_column section {
-	padding: 20px;
-	display: block;
-	float: left;
-	width: 300px;
-	vertical-align: center;
 }
 a.hover {
 	color: orange;
