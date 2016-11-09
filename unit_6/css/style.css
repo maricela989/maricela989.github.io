@@ -6,7 +6,7 @@ body {
 article {
 	display: block;
 }
-#wrapper section {
+section {
 	padding: 20px;
 	display: block;
 	float: left;
