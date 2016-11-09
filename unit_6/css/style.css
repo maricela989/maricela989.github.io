@@ -92,7 +92,7 @@ footer {
 	text-align: left;
 	padding: 5px;
 	margin: 10px;
-	background-color: white;
+	background-color: blue;
 	position: top;
 	line-height: 2em;
 	width:100px;
@@ -101,12 +101,12 @@ footer {
 	display:block;
 	float:left;
 }
-#donations div {
+#donations section {
 	font-size: 10px;
 	text-align: left;
 	padding: 5px;
 	margin: 10px;
-	background-color: white;
+	background-color: green;
 	position: top;
 	line-height: 2em;
 	width:100px;
@@ -120,7 +120,7 @@ footer {
 	text-align: left;
 	padding: 5px;
 	margin: 10px;
-	background-color: white;
+	background-color: red;
 	position: top;
 	line-height: 2em;
 	width:100px;
