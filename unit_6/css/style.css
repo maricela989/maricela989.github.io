@@ -95,7 +95,7 @@ footer {
 	background-color: blue;
 	position: top;
 	line-height: 2em;
-	width:100px;
+	width:300px;
 	font-family: 'Catamaran';
 	color: white;
 	display:block;
@@ -108,7 +108,7 @@ footer {
 	background-color: green;
 	position: top;
 	line-height: 2em;
-	width:100px;
+	width:300px;
 	font-family: 'Catamaran';
 	color: white;
 	display:block;
@@ -121,24 +121,13 @@ footer {
 	background-color: red;
 	position: top;
 	line-height: 2em;
-	width:100px;
+	width:300px;
 	font-family: 'Catamaran';
 	color: white;
 	display:block;
 	float:left;
 }
-#midbox div {
-	font-size: 10px;
-	text-align: left;
-	padding: 5px;
-	background-color: white;
-	position: top;
-	line-height: 2em;
-	width:100px;
-	font-family: 'Catamaran';
-	color: white;
-	display:block;
-	float:left;
-}
+#about div {
 
+}
 
