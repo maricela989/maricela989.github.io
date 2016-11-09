@@ -48,6 +48,9 @@ nav a {
 	display:block;
 	width: 24%;
 }
+a.hover {
+	color: orange;
+}
 .clearfix:after div {
   visibility: hidden;
   display: block;
@@ -97,7 +100,7 @@ footer {
 	width:200px;
 	font-family: 'Catamaran';
 	color: white;
-	display:inline-block;
+	display:block;
 	float:left;
 }
 #donations article {
@@ -111,7 +114,7 @@ footer {
 	width:200px;
 	font-family: 'Catamaran';
 	color: white;
-	display:inline-block;
+	display:block;
 	float:left;
 }
 #athletics article {
@@ -125,7 +128,7 @@ footer {
 	width:200px;
 	font-family: 'Catamaran';
 	color: white;
-	display:inline-block;
+	display:block;
 	float:left;
 }
 #midbox div {
@@ -139,7 +142,7 @@ footer {
 	width:200px;
 	font-family: 'Catamaran';
 	color: white;
-	display:inline-block;
+	display:block;
 	float:left;
 }
 
