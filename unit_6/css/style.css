@@ -82,6 +82,11 @@ footer {
 	background-position:top;
 	height: 60vh;
 }
+#splash div{
+	background-color: black;
+	color:white;
+	width: 50%;
+}
 #midbox article {
 	font-size: 10px;
 	text-align: left;
