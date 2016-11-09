@@ -46,7 +46,7 @@ nav a {
 	font-family: 'josefin slab', serif;
 	color: white;
 	display:inline-block;
-	width: 33.33%;
+	width: 25%;
 }
 .clearfix:after div {
   visibility: hidden;
