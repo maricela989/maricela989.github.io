@@ -40,12 +40,10 @@ nav a {
 	text-align: center;
 	text-decoration: none;
 	padding: 5px;
-	margin: 2px;
 	background-color: maroon;
 	position: top;
 	float: left;
 	line-height: 2em;
-	width: 33.33%;
 	font-family: 'josefin slab', serif;
 	color: white;
 	display:block;
