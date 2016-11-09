@@ -4,11 +4,10 @@ body {
 	font-family: 'Catamaran', sans-serif;
 }
 article {
-	display: inline-block;
+	display: block;
 }
 section {
 	margin: 4px;
-	vertical-align: middle;
 }
 h1 {
 	font-size: 64px;
