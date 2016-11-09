@@ -9,6 +9,7 @@ article {
 section {
 	padding: 10px;
 	display: block;
+	float: left;
 }
 h1 {
 	font-size: 64px;
