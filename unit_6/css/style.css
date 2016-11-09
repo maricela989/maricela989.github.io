@@ -35,8 +35,8 @@ p {
 	font-size: 12px;
 	line-height: 1.5em;
 }
-nav {
-	margin: 0;
+nav a {
+	margin: 33.33%;
 	font-size: 18px;
 	text-align: center;
 	text-decoration: none;
