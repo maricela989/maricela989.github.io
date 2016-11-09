@@ -7,7 +7,6 @@ article {
 	display: block;
 }
 section {
-	width:960px;
 }
 h1 {
 	font-size: 64px;
@@ -88,48 +87,6 @@ footer {
 	color:white;
 	width: 50%;
 	padding: 5px;
-}
-#events article {
-	font-size: 10px;
-	text-align: left;
-	padding: 5px;
-	margin: 10px;
-	background-color: white;
-	position: top;
-	line-height: 2em;
-	width:320px;
-	font-family: 'Catamaran';
-	color: white;
-	display:block;
-	float:left;
-}
-#donations article {
-	font-size: 10px;
-	text-align: left;
-	padding: 5px;
-	margin: 10px;
-	background-color: white;
-	position: top;
-	line-height: 2em;
-	width:320px;
-	font-family: 'Catamaran';
-	color: white;
-	display:block;
-	float:left;
-}
-#athletics article {
-	font-size: 10px;
-	text-align: left;
-	padding: 5px;
-	margin: 10px;
-	background-color: white;
-	position: top;
-	line-height: 2em;
-	width:320px;
-	font-family: 'Catamaran';
-	color: white;
-	display:block;
-	float:left;
 }
 #midbox div {
 	font-size: 10px;
