@@ -6,11 +6,11 @@ body {
 article {
 	display: block;
 }
-section {
-	padding: 10px;
+#wrapper section {
+	padding: 20px;
 	display: block;
 	float: left;
-	width: 175px;
+	width: 300px;
 }
 h1 {
 	font-size: 64px;
@@ -108,7 +108,6 @@ footer {
 	background-color: green;
 	position: top;
 	line-height: 2em;
-	width:300px;
 	font-family: 'Catamaran';
 	color: white;
 	display:block;
@@ -118,16 +117,16 @@ footer {
 	font-size: 10px;
 	text-align: left;
 	padding: 5px;
-	background-color: red;
 	position: top;
 	line-height: 2em;
-	width:300px;
 	font-family: 'Catamaran';
 	color: white;
 	display:block;
 	float:left;
 }
-#about div {
-
+#largewide section {
+	padding: 20px;
+	width: 800px;
 }
+
 
