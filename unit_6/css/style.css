@@ -4,7 +4,7 @@ body {
 	font-family: 'Catamaran', sans-serif;
 }
 article {
-	display: block;
+	display: inline-block;
 }
 section {
 	width: 800px;
