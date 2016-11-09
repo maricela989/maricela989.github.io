@@ -7,8 +7,8 @@ article {
 	display: inline-block;
 }
 section {
-	width: 800px;
-	background-color: black;
+	margin: 4px;
+	vertical-align: middle;
 }
 h1 {
 	font-size: 64px;
