@@ -89,7 +89,7 @@ footer {
 	width: 50%;
 	padding: 5px;
 }
-events div {
+.events {
 	text-align: left;
 	padding: 5px;
 	background-color: blue;
@@ -101,7 +101,7 @@ events div {
 	display:block;
 	float:left;
 }
-donations div {
+.donations {
 	text-align: left;
 	padding: 5px;
 	background-color: green;
@@ -112,7 +112,7 @@ donations div {
 	display:block;
 	float:left;
 }
-athletics div {
+.athletics {
 	text-align: left;
 	padding: 5px;
 	position: top;
@@ -122,7 +122,7 @@ athletics div {
 	display:block;
 	float:left;
 }
-about section {
+.about {
 	padding: 20px;
 	background-color: black;
 	color: white;
