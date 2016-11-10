@@ -3,14 +3,8 @@ body {
 	color: #000;
 	font-family: 'Catamaran', sans-serif;
 }
-article {
-}
-br {
-	height: 10px;
-}
 section {
 	padding: 20px;
-	vertical-align: center;
 }
 h1 {
 	font-size: 64px;
@@ -92,7 +86,6 @@ footer {
 .events {
 	text-align: left;
 	padding: 5px;
-	background-color: blue;
 	position: top;
 	line-height: 2em;
 	width:300px;
@@ -124,7 +117,7 @@ footer {
 }
 .about {
 	padding: 20px;
-	background-color: black;
+	background-color: red;
 	color: white;
 }
 
