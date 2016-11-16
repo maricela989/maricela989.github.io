@@ -125,9 +125,10 @@ footer {
 }
 .about {
 	padding: 20px;
-	background-color: black;
+	border-top: 5px black solid;
 	color: white;
 	float: left;
+	width: 100%;
 }
 
 
