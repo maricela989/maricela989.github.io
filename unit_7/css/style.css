@@ -68,8 +68,10 @@ footer {
 	color: black;
 	padding: 5px;
 	font-family: 'Catamaran', sans-serif;
+	font-size: 10px;
 	float: left;
 	padding: 20px;
+	margin:20px;
 }
 #splash {
 	color: #fff;
