@@ -64,7 +64,6 @@ ul {
 	line-height: 1.5em;
 }
 footer {
-	background-color: gray;
 	color: black;
 	padding: 5px;
 	font-family: 'Catamaran', sans-serif;
@@ -73,6 +72,7 @@ footer {
 	padding: 20px;
 	margin:20px;
 	width: 100%;
+	border-top: 5px black solid;
 }
 #splash {
 	color: #fff;
@@ -125,7 +125,7 @@ footer {
 }
 .about {
 	padding: 20px;
-	border-top: 5px black solid;
+	background-color: black;
 	color: white;
 	float: left;
 	width: 100%;
