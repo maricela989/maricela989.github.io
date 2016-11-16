@@ -90,7 +90,7 @@ footer {
 	line-height: 2em;
 	width:300px;
 	font-family: 'Catamaran';
-	color: white;
+	color: black;
 	background-color: white;
 	display:block;
 	float:left;
@@ -102,7 +102,7 @@ footer {
 	position: top;
 	line-height: 2em;
 	font-family: 'Catamaran';
-	color: white;
+	color: black;
 	display:block;
 	float:left;
 	background-color: white;
@@ -113,14 +113,14 @@ footer {
 	position: top;
 	line-height: 2em;
 	font-family: 'Catamaran';
-	color: red;
+	color: black;
 	display:block;
 	float:left;
 	background-color: white;
 }
 .about {
 	padding: 20px;
-	background-color: red;
+	background-color: black;
 	color: white;
 	float: left;
 }
