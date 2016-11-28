@@ -92,8 +92,3 @@ section #events {
 	width: 100%;
 	margin: auto;
 }
-@media screen and (min-width: 850px) {
-body {
-font-size: 75%;
-}
-}
