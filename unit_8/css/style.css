@@ -83,17 +83,13 @@ footer {
 	float:left;
 }
 #about {
-	padding: 4em 0;
+	padding: 4em;
 	background-color: black;
 	color:white;
 }
 section #events {
 	width: 1200px;
 	margin:auto;
-}
-.events:first-of-type {
-	background: maroon;
-	color:#fff;
 }
 #about div{
 	width: 600px;
