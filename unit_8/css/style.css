@@ -80,7 +80,7 @@ footer {
 	float:left;
 }
 #about {
-	padding: 4em;
+	padding: 2em;
 	background-color: black;
 	color:white;
 }
@@ -92,4 +92,8 @@ section #events {
 	width: 100%;
 	margin: auto;
 }
-}	
+@media screen and (min-width: 850px) {
+body {
+font-size: 80%;
+}
+}
