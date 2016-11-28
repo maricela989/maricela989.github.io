@@ -62,16 +62,16 @@ footer {
 }
 #splash {
 	color: #fff;
-	background: url(../images/1.jpg);
+	background: url(../images/school.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:top;
-	height: 20%;
+	height: 30%;
 }
 #splash div {
 	background-color: black;
 	color:white;
-	width: 50%;
+	width: 25%;
 	padding: .5em;
 }
 .events {
