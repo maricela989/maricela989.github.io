@@ -1,13 +1,15 @@
-* {margin:0;}
+* {margin:0; padding:0;box-sizing:border-box;}
 body {
-	color: #000;
+	color: #222;
 	font-family: 'Catamaran', sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
 }
 section {
-	padding: 20px;
+	padding: 20px 0;
 }
 h1 {
-	font-size: 64px;
+	font-size: 4em;
 	font-family: 'Josefin Slab', serif;
 	text-align: center;
 	letter-spacing: 2px;
@@ -16,34 +18,27 @@ h1 {
 }
 h2 {
 	font-family: 'Pacifico', cursive;
-	font-size: 28px;
+	font-size: 2em;
 	text-align: left;
 	font-weight: 100;
 	text-align: center;
 }
 h3 {
 	font-family: 'Josefin Slab', serif;
-	font-size: 18px;
-	color:#000;
+	font-size: 1.2em;
 	font-weight: thin;
 }
-p {
-	font-family: 'Catamaran' sans-serif;
-	font-size: 14px;
-	line-height: 1.5em;
-}
 nav a {
-	font-size: 18px;
+	font-size: 1.2em;
 	text-align: center;
 	text-decoration: none;
 	padding: 5px;
 	background-color: maroon;
-	position: top;
 	line-height: 2em;
 	font-family: 'josefin slab', serif;
 	color: white;
 	display:block;
-	width: 24%;
+	width: 25%;
 	float:left;
 }
 a.hover {
@@ -59,19 +54,13 @@ a.hover {
 }
 ul {
 	padding-left: 1.5em;
-	font-family: 'Catamaran', sans-serif;
-	font-size: 14px;
-	line-height: 1.5em;
 }
 footer {
-	color: black;
 	padding: 5px;
-	font-family: 'Catamaran', sans-serif;
-	font-size: 10px;
+	font-size: .75em;
 	float: left;
 	padding: 20px;
 	margin:20px;
-	width: 100%;
 	border-top: 5px black solid;
 }
 #splash {
@@ -89,46 +78,25 @@ footer {
 	padding: 5px;
 }
 .events {
-	text-align: left;
-	padding: 5px;
-	position: top;
-	line-height: 2em;
-	width:300px;
-	font-family: 'Catamaran';
-	color: black;
-	background-color: white;
-	display:block;
+	padding: 1em 2em;
+	width:33.33%;
 	float:left;
 }
-.donations {
-	text-align: left;
-	padding: 5px;
-	background-color: green;
-	position: top;
-	line-height: 2em;
-	font-family: 'Catamaran';
-	color: black;
-	display:block;
-	float:left;
-	background-color: white;
-}
-.athletics {
-	text-align: left;
-	padding: 5px;
-	position: top;
-	line-height: 2em;
-	font-family: 'Catamaran';
-	color: black;
-	display:block;
-	float:left;
-	background-color: white;
-}
-.about {
-	padding: 20px;
+#about {
+	padding: 4em 0;
 	background-color: black;
-	color: white;
-	float: left;
-	width: 100%;
+	color:white;
 }
-
-
+section #events {
+	width: 1200px;
+	margin:auto;
+}
+.events:first-of-type {
+	background: maroon;
+	color:#fff;
+}
+#about div{
+	width: 600px;
+	margin: auto;
+}
+}	
