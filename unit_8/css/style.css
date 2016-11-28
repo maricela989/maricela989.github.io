@@ -1,0 +1,134 @@
+* {margin:0;}
+body {
+	color: #000;
+	font-family: 'Catamaran', sans-serif;
+}
+section {
+	padding: 20px;
+}
+h1 {
+	font-size: 64px;
+	font-family: 'Josefin Slab', serif;
+	text-align: center;
+	letter-spacing: 2px;
+	font-weight: 100;
+	padding: 8px;
+}
+h2 {
+	font-family: 'Pacifico', cursive;
+	font-size: 28px;
+	text-align: left;
+	font-weight: 100;
+	text-align: center;
+}
+h3 {
+	font-family: 'Josefin Slab', serif;
+	font-size: 18px;
+	color:#000;
+	font-weight: thin;
+}
+p {
+	font-family: 'Catamaran' sans-serif;
+	font-size: 14px;
+	line-height: 1.5em;
+}
+nav a {
+	font-size: 18px;
+	text-align: center;
+	text-decoration: none;
+	padding: 5px;
+	background-color: maroon;
+	position: top;
+	line-height: 2em;
+	font-family: 'josefin slab', serif;
+	color: white;
+	display:block;
+	width: 24%;
+	float:left;
+}
+a.hover {
+	color: orange;
+}
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  content: " ";
+  clear: both;
+  height: 0;
+  font-size: 0;
+}
+ul {
+	padding-left: 1.5em;
+	font-family: 'Catamaran', sans-serif;
+	font-size: 14px;
+	line-height: 1.5em;
+}
+footer {
+	color: black;
+	padding: 5px;
+	font-family: 'Catamaran', sans-serif;
+	font-size: 10px;
+	float: left;
+	padding: 20px;
+	margin:20px;
+	width: 100%;
+	border-top: 5px black solid;
+}
+#splash {
+	color: #fff;
+	background: url(../images/1.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:top;
+	height: 60vh;
+}
+#splash div {
+	background-color: black;
+	color:white;
+	width: 50%;
+	padding: 5px;
+}
+.events {
+	text-align: left;
+	padding: 5px;
+	position: top;
+	line-height: 2em;
+	width:300px;
+	font-family: 'Catamaran';
+	color: black;
+	background-color: white;
+	display:block;
+	float:left;
+}
+.donations {
+	text-align: left;
+	padding: 5px;
+	background-color: green;
+	position: top;
+	line-height: 2em;
+	font-family: 'Catamaran';
+	color: black;
+	display:block;
+	float:left;
+	background-color: white;
+}
+.athletics {
+	text-align: left;
+	padding: 5px;
+	position: top;
+	line-height: 2em;
+	font-family: 'Catamaran';
+	color: black;
+	display:block;
+	float:left;
+	background-color: white;
+}
+.about {
+	padding: 20px;
+	background-color: black;
+	color: white;
+	float: left;
+	width: 100%;
+}
+
+
