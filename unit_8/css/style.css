@@ -109,3 +109,8 @@ section #events {
 		font-size: .65em;
 
 	}
+@media only screen and (max-width: 400px) {
+	nav a {
+		float: none;
+
+	}
