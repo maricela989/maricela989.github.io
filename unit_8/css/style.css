@@ -112,5 +112,5 @@ section #events {
 @media only screen and (max-width: 400px) {
 	nav a {
 		float: none;
-
+		width: 100%;
 	}
