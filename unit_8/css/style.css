@@ -92,3 +92,9 @@ section #events {
 	width: 100%;
 	margin: auto;
 }
+@media only screen and (max-width: 880px) {
+	.events {
+		float: none;
+		width: auto;
+	}
+}
