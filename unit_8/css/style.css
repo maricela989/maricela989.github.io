@@ -114,3 +114,7 @@ section #events {
 		float: none;
 		width: 100%;
 	}
+@media only screen and (max-width: 320px) {
+	#splash {
+		font-size: .45em;
+	}
